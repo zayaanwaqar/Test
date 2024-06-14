@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   late Animation<double> _animationCoolGlow;
 
   late AnimationController _tyreAnimationController;
-  // We want to animate each tyre one by one
+  // //We want to animate each tyre one by one
   late Animation<double> _animationTyre1Psi;
   late Animation<double> _animationTyre2Psi;
   late Animation<double> _animationTyre3Psi;
